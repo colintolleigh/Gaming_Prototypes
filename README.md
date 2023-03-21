@@ -1,6 +1,6 @@
-# PixiJS Startproject
+# PixiJS Startproject 2021 - 2022
 
-Dit is een startproject voor het werken met ***PixiJS en Typescript***. Installeer eerst [NodeJS](https://nodejs.org/en/) en [Visual Studio Code](https://code.visualstudio.com)
+Dit is een startproject voor het programmeervak 2021 - 2022: Werken met ***PixiJS en Typescript***. Installeer eerst [NodeJS](https://nodejs.org/en/) en [Visual Studio Code](https://code.visualstudio.com)
 
 [📺 Bekijk daarna dit filmpje voor het opzetten van dit voorbeeldproject op je eigen computer](https://youtu.be/uuPprdiFKXI)
 
@@ -10,7 +10,9 @@ Dit is een startproject voor het werken met ***PixiJS en Typescript***. Installe
 
 ## Installeren
 
-Open een nieuw VS Code venster. Ga naar **File > Clone Repository** en paste daar de `.git` url van dit project: `https://github.com/HR-CMGT/PRG04-2021-2022-startproject.git`
+Klik op FORK repository. Dit maakt een kopie van dit startproject in je eigen github.
+
+Open een nieuw VS Code venster. Ga naar **File > Clone Repository** en paste daar de `.git` url van jouw fork project: `https://github.com/jouwnaam/PRG04-2021-2022-startproject.git`
 
 ![clone](./src/images/clone.png)
 
